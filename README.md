@@ -1,4 +1,4 @@
-## SELIN BOUTIQUE Web Sitesi Tasarımı
+## Econ-Logictics Web Sitesi Tasarımı
 
 Bu proje, [Dima Kurylenko](https://www.behance.net/dimakurilenko1) tarafından oluşturulan Econ-Logictics isimli bir web sitesi tasarımını HTML ve CSS ile yeniden üretir.
 
